@@ -1,37 +1,37 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: https://github.com/alvaro-roldan-capponi/cv
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Alvaro Roldan Capponi
+title: DevOps Engineer | Tech Lead
+email: varo.roldan@gmail.com
+# phone: '+5491154731120'
+# website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+# twitter_username: jekyllrb
+# github_username:  alvaro-roldan-capponi
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: alvaro-roldan-capponi-24b19314
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,15 +44,15 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: mypicture/Alvaro_Roldan_Capponi.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  Information technology (IT) professional with experience in national and international projects leadership and in cross-functional and cross-cultural teams integrated by
+  developers, architects, Product Owners, system operators (SysOps) and other IT professionals to develop, test and implement in production applications with
+  dedicated infrastructure. I have a background of over 15 years in the IT field workingn different positions such as DevOps, now as a Tech Lead, Developer, Functional
+  Analyst and Project Manager, using English as the main language in everyday work.
+  Throughout my professional career, I have coordinated teams directly and indirectly, always with a focus on organizing tasks, meeting security objectives and metrics. I
+  consider that I have a great capacity to adapt to different work teams and environments, to plan and coordinate projects at a regional and international level and to establish
+  interpersonal relationships based on trust and collaboration.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -66,9 +66,44 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  **PERSONAL SKILLS**
+    - 
+      Analytical thinking | Conceptual reasoning | Critical thinking | Time management | Organizational awareness | Vision focused on the business |
+      Decision making | Customer orientation Flexibility | Ability to work under pressure | Tolerance to stress and/or frustration | Innovation and creativity |
+      Leadership | Active listening | Conflict resolution | Strategic orientation | Assertiveness | Self-control | Motivation to achievement |
+      Learning attitude and continuous improvement.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  *Skills*
+    - AwS
+    - Docker
+    - Kubernetes
+    - CI/CD
+    - Python
+    - NodeJS
+    - Bash
+    - Linux
+    - Terraform
+    - Jenkins
+    - Git
+    - Agile Methodologies
+
+  *Languages*
+    - English: Advanced
+    - Spanish: Native
+
+  *TRAININGS*
+    - AWS Certified Developer (2020)
+    - AWS CloudFormation Master Class
+    - Docker Mastery: with Kubernetes + Swarm from a Docker Captain
+    - Complete Python Bootcamp: From Zero to Hero in Python (2019)
+
+  *PROFESSIONAL SKILLS*
+    - Culture and methodology of Devops
+    - Support to productive infrastructure
+    - Pipelines for application implementation
+    - Platform development in Kubernetes
+    - Generation of infrastructure, orchestration and security services.
+    - Cloud Engineering (AWS Services)
 
 # Footer
 footer_show_references: true
@@ -96,5 +131,3 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
-
-theme: jekyll-theme-hacker
