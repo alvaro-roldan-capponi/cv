@@ -8,7 +8,7 @@
     A digital product engineering company.
     We integrate experience design and complex engineering to help our clients imagine what’s possible and accelerate their transition into tomorrow’s digital businesses.
   description: | # this will include new lines to allow paragraphs
-    Create a Kubernetes platform to provide a faster, more secure and highly scalable bussiness applications.|
+    Create a Kubernetes platform to provide a faster, more secure and highly scalable bussiness applications.
     Apply continuous delivery, improve and provide support on a development platform and, later, implement applications on Kubernetes on AWS (EKS).
 
 - layout: left
