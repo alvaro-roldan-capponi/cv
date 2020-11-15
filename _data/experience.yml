@@ -1,10 +1,39 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: GlobalLogic
+  link: https://www.globallogic.com/
+  job_title: Devops Engineer | Tech Lead
+  dates: Aug 2019 - present)
   quote: >
-   Short description of the company (optional)
+    A digital product engineering company.
+    We integrate experience design and complex engineering to help our clients imagine what’s possible and accelerate their transition into tomorrow’s digital businesses.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Create a Kubernetes platform to provide a faster, more secure and highly scalable bussiness applications.|
+    Apply continuous delivery, improve and provide support on a development platform and, later, implement applications on Kubernetes on AWS (EKS).
+
+- layout: left
+  company: Itau Bank
+  link: https://www.itau.com.ar/Paginas/default.aspx
+  jobs:
+    - job_title: Senior Devops
+      dates: Jan 2017 - Jul 2019)
+    - job_title: Deployment and Production Platform Administrator
+      dates: Feb 2014 - Dec 2016)
+    - job_title: Project Manager
+      dates: Jan 2012 - Jan 2014)
+    - job_title: Senior Functional Analyst
+      dates: Jun 2010 - Dec 2011)
+  quote: >
+    International Bank
+  description: | # this will include new lines to allow paragraphs
+    Devops role: Implement DevOps methodologies both local a regionally, coordinating the creation of a platform and the
+    pipelines in charge of the implementation of applications, systematizing work with collaborators from Brazil,
+    Paraguay, Uruguay, Chile and Colombia. |
+    Deployment and Production Platform Administrator role: In charge of carrying out the expansion and administration of the versioning platform and implementation of
+    the bank's applications (+ 100 applications).|
+    - Survey of new applications to be managed by the main pipeline.|
+    - Maintenance of applications managed by the workflow.|
+    - Provide security to the implementation of applications and databases in different environments.|
+    
+
+
