@@ -14,26 +14,36 @@
 - layout: left
   company: Itau Bank
   link: https://www.itau.com.ar/Paginas/default.aspx
-  jobs:
-    - job_title: Senior Devops
-      dates: Jan 2017 - Jul 2019)
-    - job_title: Deployment and Production Platform Administrator
-      dates: Feb 2014 - Dec 2016)
-    - job_title: Project Manager
-      dates: Jan 2012 - Jan 2014)
-    - job_title: Senior Functional Analyst
-      dates: Jun 2010 - Dec 2011)
+  job_title: Senior Devops
+  dates: Jan 2017 - Jul 2019
   quote: >
     International Bank
   description: | # this will include new lines to allow paragraphs
-    Devops role: Implement DevOps methodologies both local a regionally, coordinating the creation of a platform and the
+    Implement DevOps methodologies both local a regionally, coordinating the creation of a platform and the
     pipelines in charge of the implementation of applications, systematizing work with collaborators from Brazil,
-    Paraguay, Uruguay, Chile and Colombia. |
-    Deployment and Production Platform Administrator role: In charge of carrying out the expansion and administration of the versioning platform and implementation of
-    the bank's applications (+ 100 applications).|
-    - Survey of new applications to be managed by the main pipeline.|
-    - Maintenance of applications managed by the workflow.|
-    - Provide security to the implementation of applications and databases in different environments.|
-    
+    Paraguay, Uruguay, Chile and Colombia.
 
+- layout: left
+  company: Itau Bank
+  link: https://www.itau.com.ar/Paginas/default.aspx
+  job_title: Deployment and Production Platform Administrator
+  dates: Feb 2014 - Dec 2016
+  quote: >
+    International Bank
+  description: | # this will include new lines to allow paragraphs
+    In charge of carrying out the expansion and administration of the versioning platform and implementation of
+    the bank's applications (+ 100 applications).
+    - Survey of new applications to be managed by the main pipeline.
+    - Maintenance of applications managed by the workflow.
+    - Provide security to the implementation of applications and databases in different environments.
 
+- layout: left
+  company: Itau Bank
+  link: https://www.itau.com.ar/Paginas/default.aspx
+  job_title: Senior Functional Analyst
+  dates: Jun 2010 - Dec 2011
+  quote: >
+    International Bank
+  description: | # this will include new lines to allow paragraphs
+    Responsible for the development and implementation of a solution for the expansion of the bank's
+    technological operational capacity, I coordinated a team made up of 3 collaborators.
