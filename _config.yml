@@ -46,13 +46,25 @@ linkedin_username: alvaro-roldan-capponi-24b19314
 # about_title: About Me (Use this to override about section title)
 about_profile_image: mypicture/Alvaro_Roldan_Capponi.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Information technology (IT) professional with experience in national and international projects leadership and in cross-functional and cross-cultural teams integrated by
-  developers, architects, Product Owners, system operators (SysOps) and other IT professionals to develop, test and implement in production applications with
-  dedicated infrastructure. I have a background of over 15 years in the IT field workingn different positions such as DevOps, now as a Tech Lead, Developer, Functional
-  Analyst and Project Manager, using English as the main language in everyday work.
-  Throughout my professional career, I have coordinated teams directly and indirectly, always with a focus on organizing tasks, meeting security objectives and metrics. I
-  consider that I have a great capacity to adapt to different work teams and environments, to plan and coordinate projects at a regional and international level and to establish
-  interpersonal relationships based on trust and collaboration.
+  I'm a Tech Lead DevOps Engineer with over 15 years experience on IT, managing multicultural global teams.
+  My main bussiness expertise are retail and banking, where I've helped integrate different groups by creating pipelines to make Development, Operations and Security areas work together.
+  My goal is to help companies, from all backgrounds and sizes, to move to DevOps culture, integrating agile methodologies, to achieve a fast and secure development and production deployments.
+
+
+# DevOps Engineer with experience in national and international projects leadership and in cross-functional and cross-cultural teams integrated by
+# developers, architects, Product Owners, system operators (SysOps) and other IT professionals to develop, test and implement in production applications with
+# dedicated infrastructure. I have a background of over 15 years in the IT field workingn different positions such as DevOps, now as a Tech Lead, Developer, Functional
+# Analyst and Project Manager.
+# Throughout my professional career, I have coordinated teams directly and indirectly, always with a focus on organizing tasks, meeting security objectives and metrics. I
+# consider that I have a great capacity to adapt to different work teams and environments, to plan and coordinate projects at a regional and international level and to establish
+# interpersonal relationships based on trust and collaboration.
+
+
+
+# Qué sos?
+# Qué hice?
+# Qué principios defiendo en lo profesional?
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -74,10 +86,10 @@ more_content: | # this will include new lines to allow paragraphs
       Learning attitude and continuous improvement.
 
   *Skills*
-    - AwS
-    - Docker
-    - Kubernetes
-    - CI/CD
+    - AWS Services
+    - Docker: Dockerfiles / docker-compose / multistage
+    - Kubernetes: EKS
+    - CI/CD: Gitlab-ci / Jenkins
     - Python
     - NodeJS
     - Bash
