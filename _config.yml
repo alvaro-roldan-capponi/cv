@@ -97,6 +97,7 @@ more_content: | # this will include new lines to allow paragraphs
     - Terraform
     - Jenkins
     - Git
+    - Kafka
     - Agile Methodologies
 
   *Languages*
